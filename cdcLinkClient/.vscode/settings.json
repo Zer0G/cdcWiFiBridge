@@ -1,0 +1,36 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "idf.espIdfPathWin": "d:/esp-idf/frameworks/esp-idf-v5.5/",
+  "idf.pythonInstallPath": "d:\\esp-idf\\tools\\idf-python\\3.11.2\\python.exe",
+  "idf.openOcdConfigs": [
+    "board/esp32s3-builtin.cfg"
+  ],
+  "idf.portWin": "COM9",
+  "idf.toolsPathWin": "d:\\esp-idf",
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32s3"
+  },
+  "clangd.path": "d:\\esp-idf\\tools\\tools\\esp-clang\\esp-19.1.2_20250312\\esp-clang\\bin\\clangd.exe",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=d:\\esp-idf\\tools\\tools\\xtensa-esp-elf\\esp-14.2.0_20241119\\xtensa-esp-elf\\bin\\xtensa-esp32s3-elf-gcc.exe",
+    "--compile-commands-dir=d:\\workspace\\esp-idf\\test1\\build"
+  ],
+  "idf.flashType": "JTAG",
+  "files.associations": {
+    "st7789v.h": "c",
+    "esp_timer.h": "c",
+    "esp_system.h": "c",
+    "esp_lcd_panel_ops.h": "c",
+    "esp_lcd_panel_io.h": "c",
+    "esp_lcd_types.h": "c",
+    "freertos.h": "c",
+    "task.h": "c",
+    "lcd_types.h": "c",
+    "color_types.h": "c",
+    "esp_lcd_panel_interface.h": "c",
+    "esp_random.h": "c",
+    "stdio.h": "c"
+  },
+  "idf.monitorPort": "COM9"
+}

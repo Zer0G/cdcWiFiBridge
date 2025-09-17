@@ -1,0 +1,4 @@
+dependencies:
+  # Pin LVGL to v9 to match SquareLine generated code
+  lvgl/lvgl: "^9.1.0"
+
